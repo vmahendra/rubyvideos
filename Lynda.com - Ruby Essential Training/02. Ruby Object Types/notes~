@@ -1,0 +1,24 @@
+varibles are not objects..
+in ruby every thing is object
+
+4 ** 2 = 16
+9/6=1,9.0/6=1.5
+
+presesion means xtention(decimal) i.e: 9.333
+
+ruby methods:
+object.id
+x.class
+-100.abs
+100.next
+99.555.round=100
+99.999.floor=99
+99.222.ceil=100
+123.12.to_i 
+"hellow".reverse
+"hellow".capitalize
+"hellow".downcase
+"hellow".upcase
+"hellow".length
+array.clear or array = []
+
